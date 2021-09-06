@@ -1,0 +1,346 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.navbar img {
+  width: 140px;
+}
+.form-control {
+  margin: auto;
+}
+.whiteImg {
+  width: 100%;
+}
+.whiteImg h2 {
+  text-align: center;
+  position: relative;
+  top: 170px;
+  background-color: #f4f6f3;
+  margin-bottom: 270px;
+}
+.img1 {
+  width: 100%;
+  height: auto;
+}
+.img1 {
+  width: 100%;
+  height: auto;
+  position: relative;
+  top: 46px;
+}
+.vision {
+  width: 100%;
+  height: auto;
+}
+.secImg img {
+  width: 1205px;
+  /* height: 400px; */
+  height: auto;
+}
+.vision_cont h2,
+p {
+  position: relative;
+  top: 278px;
+  width: 500px;
+  left: -10px;
+  background-color: white;
+}
+
+.about {
+  margin-bottom: -226px;
+  position: relative;
+  top: 20px;
+}
+.whiteImg {
+  width: 100%;
+  height: 400px;
+  margin-top: 13%;
+}
+
+.cooprate{
+  margin-top: 3%;
+  width: 100%;
+  height: 500px;
+}
+.circle img{ 
+width: 270px;
+height: 270px;
+position: relative;
+    left: 36px;
+    top: 63px;
+}
+.circle h3 {
+  position: relative;
+  top: 107px;
+  left : 67px
+}
+.circle p {
+  position: relative;
+    top: 111px;
+    left: 117px;
+}
+
+/* ?????footer code */
+
+
+.component-10-1 {
+  background-image: url("./Assects/mask-group-44@1x.png");
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 365px;
+  width: 1959px;
+}
+
+.overlap-group1 {
+  background-color: #15581626;
+  height: 365px;
+  position: relative;
+  margin-top: 200px;
+}
+.con_con h2{
+text-align: center;
+}
+
+.copyright {
+  background-color: #155816b2;
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 311px;
+  width: 1959px;
+}
+
+.text-1 {
+  left: 761px;
+  letter-spacing: 0;
+  line-height: 83px;
+  position: absolute;
+  top: -16px;
+  white-space: nowrap;
+}
+
+.span0 {
+  color: var(--white);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xs);
+}
+.component-10-1 {
+  text-align: center;
+  color: white;
+  position: relative;
+  left: -358px;
+}
+.span1 {
+  color: #7d7d7d;
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xs);
+}
+
+.overlap-group {
+  height: 219px;
+  left: 281px;
+  position: absolute;
+  top: 60px;
+  width: 1149px;
+}
+
+.line {
+  background-color: var(--white);
+  height: 160px;
+  left: 672px;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.group-434 {
+  height: 219px;
+  left: 98px;
+  position: absolute;
+  top: 0;
+  width: 1149px;
+}
+
+.contact-us {
+  height: 178px;
+  left: 821px;
+  position: absolute;
+  top: 0;
+  width: 330px;
+}
+
+.text-2 {
+  height: 134px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 39px;
+  width: 330px;
+}
+
+.contact-us-1 {
+  left: 117px;
+  letter-spacing: 0;
+  line-height: 31px;
+  position: absolute;
+  text-decoration: underline;
+  top: -4px;
+  white-space: nowrap;
+}
+
+/* .about-us {
+  height: 183px;
+  left: 341px;
+  position: absolute;
+  top: 0;
+  width: 258px;
+} */
+
+.our-products {
+  left: 66px;
+  letter-spacing: 0;
+  line-height: 31px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: -4px;
+  white-space: nowrap;
+}
+
+.text-3 {
+  height: 139px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 44px;
+  width: 258px;
+}
+
+.recent-post-slide-show {
+  height: 191px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 97px;
+}
+
+.quick-links {
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 31px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: -4px;
+  white-space: nowrap;
+}
+
+.text-4 {
+  color: var(--white);
+  font-family: var(--font-family-leelawadeeui-regular);
+  font-size: var(--font-size-xl);
+  left: 0;
+  letter-spacing: 1.5px;
+  line-height: 25px;
+  position: absolute;
+  top: 43px;
+  white-space: nowrap;
+}
+
+.line-1 {
+  background-color: var(--white);
+  height: 160px;
+  left: 265px;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.group-429 {
+  height: 24px;
+  left: 885px;
+  position: absolute;
+  top: 195px;
+  width: 200px;
+}
+
+.page-1 {
+  background-image: url("./Assects/linkedin---161-@1x.png");
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 24px;
+  left: 108px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.nounyoutube897674 {
+  background-image: url("./Assects/path-1529@1x.png");
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 19px;
+  left: 172px;
+  position: absolute;
+  top: 2px;
+  width: 28px;
+}
+
+.page-1-1 {
+  background-image: url("./Assects/facebook---176-@1x.png");
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.page-1-2 {
+  background-image: url("./Assects/instagram---167-@1x.png");
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 24px;
+  left: 48px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400");
+@font-face {
+  font-family: "LeelawadeeUI-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.animaapp.com/LeelawadeeUI-Regular") format("truetype");
+}
+@font-face {
+  font-family: "LeelawadeeUI-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://fonts.animaapp.com/LeelawadeeUI-Bold") format("truetype");
+}
+
+.knowl{
+  opacity: 0.8;
+  width: 914px;
+  position: relative;
+  top: 25px;
+  left: 131px;
+  margin-bottom: 17px;
+}
+
+.con_cont h2{
+   text-align: center;
+   padding: 27px;
+
+}
+.cooprate{
+  background-color: #ede4ff;
+}
